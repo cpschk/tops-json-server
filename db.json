@@ -1,0 +1,41 @@
+{
+    "project": [
+        {
+            "id": "1",
+            "name": "App Tareas",
+            "description": "Desarrollo de una aplicación móvil para facilitar la gestión de tareas diarias.",
+            "team": [
+                {
+                    "id": "14",
+                    "name": "Kristin Williams",
+                    "email": "devinforbes@example.org",
+                    "image": "https://picsum.photos/id/54/200/300"
+                },
+                {
+                    "id": "18",
+                    "name": "Kimberly Davidson",
+                    "email": "udavis@example.net",
+                    "image": "https://picsum.photos/id/14/200/300"
+                },
+                {
+                    "id": "",
+                    "name": "Glenda Chartier Fake profil",
+                    "email": "glenda.chartier@example.com",
+                    "image": "https://picsum.photos/id/wadisw43kv/200/300"
+                },
+                {
+                    "id": "9",
+                    "name": "James Perron Fake profil",
+                    "email": "james.perron@example.com",
+                    "image": "https://picsum.photos/id/2zmtjaahhb/200/300"
+                },
+                {
+                    "id": "15",
+                    "name": "Ryan Singh",
+                    "email": "kristen86@example.net",
+                    "image": "https://picsum.photos/id/615/200/300"
+                }
+            ]
+        }
+    ]
+}
